@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseMvvm</string>
+    <string name="label_processing_content">Loading</string>
+</resources>
